@@ -15,9 +15,11 @@ body
 	}
 .links
 	{
-		font-size:50px;
+		font-size:20px;
 		color:white;
 		background:orange;
+		border:black;
+		border-style:solid;
 	}
 li	{
 		display:inline-block;
